@@ -1,13 +1,14 @@
+WDCNZ 2011
+==========
 
-
-# WDCNZ 2011
-# Apocalypse Node
+Apocalypse Node
+---------------
 
 These are my slides and all the example code I had in my talk. Most of the code in my slide deck are runnable node scripts.
 
 The deck has been built using [Sencha Touch](http://www.sencha.com/products/touch/). While I know that sounds weird there is a reason...
 
-# How to use
+## How to use
 
 If you just want to look at the slides then that's cool. Just open /public/index.html into Chrome (sorry - it has some funky code that I only tested in Chrome). They will also render nicely onto an iPad - it's fixed to ~1024 x ~700 so while it will render on an iPhone it won't look very good.
 
