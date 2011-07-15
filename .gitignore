@@ -1,0 +1,21 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+WDCNZ-2011.bbprojectd/craigwalker.bbprojectsettings
+WDCNZ-2011.bbprojectd/project.bbprojectdata
+public/resources/scss/.sass-cache
