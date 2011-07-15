@@ -11,6 +11,10 @@ The deck has been built using [Sencha Touch](http://www.sencha.com/products/touc
 How to use
 ----------
 
+Either download the zip or clone this repository:
+
+	git clone --depth 1 git://github.com/storminwalker/WDCNZ-2011
+
 If you just want to look at the slides then that's cool. Just open /public/index.html into Chrome (sorry - it has some funky code that I only tested in Chrome). They will also render nicely onto an iPad - it's fixed to ~1024 x ~700 so while it will render on an iPhone it won't look very good.
 
 Now if you want to see something cool...
