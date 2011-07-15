@@ -8,13 +8,14 @@ These are my slides and all the example code I had in my talk. Most of the code 
 
 The deck has been built using [Sencha Touch](http://www.sencha.com/products/touch/). While I know that sounds weird there is a reason...
 
-## How to use
+How to use
+----------
 
 If you just want to look at the slides then that's cool. Just open /public/index.html into Chrome (sorry - it has some funky code that I only tested in Chrome). They will also render nicely onto an iPad - it's fixed to ~1024 x ~700 so while it will render on an iPhone it won't look very good.
 
 Now if you want to see something cool...
 
-## Install node
+### Install node
 
 If you have a Mac & have [homebrew](https://github.com/mxcl/homebrew/wiki/installation) installed type the following:
 
@@ -26,7 +27,7 @@ If you don't have a Mac then go here for instructions:
 
 I haven't tested this code using 0.5 (unstable) so it's currently targeting 0.4.x.
 
-## Run the server
+### Run the server
 
 Open terminal and type:
 
@@ -44,6 +45,6 @@ Basically it's just using a simple socket.io server that broadcasts the page of 
 
 This is the one demo I wanted to show working during my presentation but due to the way the WiFi worked at WDCNZ I couldn't make it work.
 
-## Run the server
+### Run the server
 
 All my code samples are in /examples (each js file has how you run it commented out in the file - so that you don't need to figure it out).
